@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Gowtham+R;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Spring+Boot+%7C+Node.js+%7C+Python;Turning+Ideas+into+Scalable+Products+%E2%9CA8" alt="Typing SVG" />
+  <!-- Animated Typing Header (Warm Sunset Amber / Gold) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B+I'm+Gowtham+R;Aspiring+Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Spring+Boot+%7C+Node.js+%7C+Python;Turning+Ideas+into+Scalable+Products+%E2%9CA8" alt="Typing SVG" />
 
   <br/>
 
   <!-- Dynamic Views & Social Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=GowthamR46&color=fe428e&style=for-the-badge&label=%F0%9F%91%80+PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=GowthamR46&color=f59e0b&style=for-the-badge&label=%F0%9F%91%80+PROFILE+VIEWS" alt="Profile Views" />
     &nbsp;
     <a href="https://linkedin.com/in/gowtham-ravim" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  <!-- Glowing Neon Divider -->
+  <!-- Glowing Animated Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 </div>
@@ -63,7 +63,7 @@
 ## 🏆 Achievements & Credentials:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GowthamR46&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GowthamR46&theme=gruvbox&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 | Honor | Role / Project | Organization / Event |
@@ -235,22 +235,22 @@
 ## 📊 GitHub Analytics & Activity:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamR46&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamR46&show_icons=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&icon_color=f59e0b&border_color=30363d" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamR46&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamR46&background=0d1117&border=30363d&stroke=30363d&ring=f59e0b&fire=f59e0b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f59e0b&sideLabels=f59e0b&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamR46&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamR46&layout=compact&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Dynamic Dev Joke / Quote Card -->
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?bg_color=0d1117&code_color=f59e0b&text_color=c9d1d9&border_color=30363d" alt="Dev Joke" />
 </div>
 
 <br/>
